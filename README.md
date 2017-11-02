@@ -8,15 +8,9 @@ Reset
 
 Update App Store 
 
-Install Xcode
+Install Xcode (Pages, Numbers, Keynote, iBooks Author)
 
 Terminal setup
-
-Chromium
-
-Protonmail Bridge
-
-Flash npapi
 
 sudo softwareupdate -ia —verbose
 
@@ -30,54 +24,7 @@ brew install ranger aircrack-ng geoip gnutls hashcat hping john nmap openssl p7z
 
 brew cleanup
 
-appcleaner 
-
-Handbrake
-
-discord 
-
-gimp 
-
-iina
-
-smooze
-
-transmission
-
-tunnelblick
-
-virtualbox
-
-wireshark
-
-python 3
-
-Login items: smooze mail
 
 Login shell: /usr/local/bin/zsh
-
-Safari:
-
-TiVo 
-
-Netflix
-
-NBA
-
-MLB.tv
-
-WatchESPN
-
-NBC Sports
-
-Amazon Prime
-
-HBO GO
-
-Syfy
-
-STARZ
-
-Animal Planet
 
 https://encrypted.google.com/#q=%s
