@@ -38,4 +38,4 @@ use_sysroot=false
 #enable_remoting=false
 enable_nacl=false
 enable_nacl_nonsfi=false
-mac_sdk_path = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk"
+mac_sdk_path = "/Users/jmauss/Builds/Chromium/MacOSX10.12.sdk"
